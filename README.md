@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KID-KODER
+- 👀 I’m interested in engineering,robotics and coding
+- 🌱 I’m currently learning python
